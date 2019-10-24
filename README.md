@@ -1,3 +1,5 @@
-rails db:migrate 
-test consoles 
+bundle install -
+rails db:migrate -
+test consoles -
+seed inc
 
